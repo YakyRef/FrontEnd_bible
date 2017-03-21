@@ -5,10 +5,9 @@ A Common use usefully FrontEnds snippets
 ## NPM 
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+npm uninstall `ls -1 node_modules | tr '/\n' ' '`
 ```
 
 
 - delete all 'node_modules' packages :
-npm uninstall `ls -1 node_modules | tr '/\n' ' '`
+

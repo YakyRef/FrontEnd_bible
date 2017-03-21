@@ -1,8 +1,13 @@
-# FEDsnippets
-A Common use FrontEnds snippets   
+# Front Ends resurses and snippets  
+A Common use Front Ends resurses and snippets.    
+
+## Resurses
+### live editors:
+- http://codepen.io/
 
 
-## NPM 
+## Snippets
+### NPM 
 
 - delete all 'node_modules' packages :
 ```javascript

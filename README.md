@@ -3,15 +3,23 @@ A Common use Front Ends resurses and snippets.
 
 ## Resurses
 
-### live editors:
+### Blogs
+- https://css-tricks.com
+
+### Live editors:
 - http://codepen.io/
 
-### insperation
+### Insperation:
 - https://dribbble.com/
 
-## Snippets
-### NPM 
+### The bible of Flex-Box:
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+
+
+## Snippets
+
+### NPM 
 - delete all 'node_modules' packages :
 ```javascript
 npm uninstall `ls -1 node_modules | tr '/\n' ' '`

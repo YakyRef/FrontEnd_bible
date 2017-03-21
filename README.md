@@ -16,8 +16,10 @@ A Common use Front Ends resurses and snippets.
 ### CSS:
 - https://daneden.github.io/animate.css/
 
-### Tools:
-- https://jpillora.com/base64-encoder/
+### Tools and Generators:
+- base64-encoder : https://jpillora.com/base64-encoder/
+- gradient-generator : http://www.cssmatic.com/gradient-generato
+- box-shadow-generator : http://www.cssmatic.com/box-shadow
 
 ### The bible of Flex-Box:
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/

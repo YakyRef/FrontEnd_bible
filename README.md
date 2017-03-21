@@ -42,7 +42,7 @@ A Common use Front Ends resources and snippets.
 #### arrays:
 - map():
 
-```javascript
+```
 var numbers = [1, 4, 9];
 var doubles = numbers.map( (num)=> {
   return num * 2;

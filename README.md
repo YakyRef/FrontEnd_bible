@@ -26,7 +26,18 @@ A Common use Front Ends resurses and snippets.
 
 ## Snippets
 
-### NPM 
+### ES6:
+
+- map:
+```javascript
+var numbers = [1, 4, 9];
+var doubles = numbers.map( (num)=> {
+  return num * 2;
+});
+```
+
+### NPM: 
+
 - delete all 'node_modules' packages :
 ```javascript
 npm uninstall `ls -1 node_modules | tr '/\n' ' '`

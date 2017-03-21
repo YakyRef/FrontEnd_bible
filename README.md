@@ -28,14 +28,21 @@ A Common use Front Ends resurses and snippets.
 
 ### ES6:
 
-- map:
+#### arrays:
+- map():
 ```javascript
 var numbers = [1, 4, 9];
 var doubles = numbers.map( (num)=> {
   return num * 2;
 });
 ```
-
+- reduce():
+```javascript
+var numbers = [1, 4, 9];
+var doubles = numbers.map( (num)=> {
+  return num * 2;
+});
+```
 ### NPM: 
 
 - delete all 'node_modules' packages :
@@ -46,3 +53,6 @@ npm uninstall `ls -1 node_modules | tr '/\n' ' '`
 
 
 
+## Credits:
+---
+- https://developer.mozilla.org

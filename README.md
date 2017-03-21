@@ -37,6 +37,8 @@ var numbers = [1, 4, 9];
 var doubles = numbers.map( (num)=> {
   return num * 2;
 });
+// doubles = [2, 8, 18]
+// https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 ```
 - reduce():
 ```javascript

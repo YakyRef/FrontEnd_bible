@@ -41,6 +41,7 @@ A Common use Front Ends resources and snippets.
 
 #### arrays:
 - map():
+
 ```javascript
 var numbers = [1, 4, 9];
 var doubles = numbers.map( (num)=> {
@@ -50,6 +51,7 @@ var doubles = numbers.map( (num)=> {
 // doubles = [2, 8, 18]
 // https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 ```
+
 - reduce():
 ```javascript
 var names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice'];

@@ -4,36 +4,35 @@ A Common use Front Ends resources and snippets.
 ## Resurses
 
 ### Blogs
-- [I'm an inline-style link with title](https://css-tricks.com "https://css-tricks.com")
-- [https://css-tricks.com](https://css-tricks.com)
+- [css-tricks](https://css-tricks.com)
 
 ### Live editors:
-- http://codepen.io/
+- [codepen.io](http://codepen.io/)
 
 ### Insperation:
-- https://dribbble.com/
-- http://littlesnippets.net/
+- [https://dribbble.com/](dribbble)
+- [http://littlesnippets.net/](littlesnippets)
 
 ### UI Frameworks
-- http://materializecss.com/
-- http://www.material-ui.com/
-- http://getbootstrap.com/
-- https://react-bootstrap.github.io/
+- [http://materializecss.com/](materializecss)
+- [http://www.material-ui.com/](material-ui)
+- [http://getbootstrap.com/](getbootstrap)
+- [https://react-bootstrap.github.io/](react-bootstrap)
 
 ### CSS:
-- https://daneden.github.io/animate.css/
+- [https://daneden.github.io/animate.css/](animate.css)
 
 ### Tools and Generators:
-- base64-encoder : https://jpillora.com/base64-encoder/
-- gradient-generator : http://www.cssmatic.com/gradient-generato
-- box-shadow-generator : http://www.cssmatic.com/box-shadow
+- [https://jpillora.com/base64-encoder/](base64-encoder) 
+- [http://www.cssmatic.com/gradient-generato](gradient-generator) 
+- [http://www.cssmatic.com/box-shadow](box-shadow-generator)  
 
 ### The bible of Flex-Box:
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](a-guide-to-flexbox)
 
 ### Fonts:
-- http://fontawesome.io/
-- http://fontello.com/
+- [http://fontawesome.io/](fontawesome)
+- [http://fontello.com/](fontello)
 
 
 ## Snippets

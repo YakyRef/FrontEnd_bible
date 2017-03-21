@@ -4,6 +4,7 @@ A Common use Front Ends resources and snippets.
 ## Resurses
 
 ### Blogs
+- [I'm an inline-style link with title](https://css-tricks.com "https://css-tricks.com")
 - [https://css-tricks.com](https://css-tricks.com)
 
 ### Live editors:

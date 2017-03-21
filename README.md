@@ -53,7 +53,7 @@ var doubles = numbers.map( (num)=> {
 ```
 
 - reduce():
-```javascript
+```
 var names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice'];
 
 var countedNames = names.reduce((allNames, name) => { 
@@ -72,7 +72,7 @@ var countedNames = names.reduce((allNames, name) => {
 ### NPM: 
 
 - delete all 'node_modules' packages :
-```javascript
+```
 npm uninstall `ls -1 node_modules | tr '/\n' ' '`
 ```
 

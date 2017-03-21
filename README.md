@@ -11,6 +11,13 @@ A Common use Front Ends resurses and snippets.
 
 ### Insperation:
 - https://dribbble.com/
+- http://littlesnippets.net/
+
+### CSS:
+- https://daneden.github.io/animate.css/
+
+### Tools:
+- https://jpillora.com/base64-encoder/
 
 ### The bible of Flex-Box:
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/

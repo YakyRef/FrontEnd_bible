@@ -2,7 +2,6 @@
 A Common use Front Ends resources and snippets.    
 
 ## Resurses
----
 
 ### Blogs
 - [css-tricks](https://css-tricks.com)
@@ -37,7 +36,7 @@ A Common use Front Ends resources and snippets.
 
 
 ## Snippets
----
+
 ### ES6:
 
 #### arrays:

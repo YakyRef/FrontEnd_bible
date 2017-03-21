@@ -40,10 +40,19 @@ var doubles = numbers.map( (num)=> {
 ```
 - reduce():
 ```javascript
-var numbers = [1, 4, 9];
-var doubles = numbers.map( (num)=> {
-  return num * 2;
-});
+var names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice'];
+
+var countedNames = names.reduce((allNames, name) => { 
+  if (name in allNames) {
+    allNames[name]++;
+  }
+  else {
+    allNames[name] = 1;
+  }
+  return allNames;
+}, {});
+// Object {Alice: 2, Bob: 1, Tiff: 1, Bruce: 1}
+// credit : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
 ```
 ### NPM: 
 

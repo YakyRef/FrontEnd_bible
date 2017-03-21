@@ -13,6 +13,12 @@ A Common use Front Ends resurses and snippets.
 - https://dribbble.com/
 - http://littlesnippets.net/
 
+### UI Frameworks
+- http://materializecss.com/
+- http://www.material-ui.com/
+- http://getbootstrap.com/
+- https://react-bootstrap.github.io/
+
 ### CSS:
 - https://daneden.github.io/animate.css/
 
@@ -24,6 +30,9 @@ A Common use Front Ends resurses and snippets.
 ### The bible of Flex-Box:
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+### Fonts:
+- http://fontawesome.io/
+- http://fontello.com/
 
 
 ## Snippets

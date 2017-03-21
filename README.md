@@ -1,5 +1,5 @@
-# Front Ends resurses and snippets  
-A Common use Front Ends resurses and snippets.    
+# Front Ends resources and snippets  
+A Common use Front Ends resources and snippets.    
 
 ## Resurses
 

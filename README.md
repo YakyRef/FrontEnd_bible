@@ -69,13 +69,15 @@ var countedNames = names.reduce((allNames, name) => {
 // Object {Alice: 2, Bob: 1, Tiff: 1, Bruce: 1}
 // credit : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
 ```
+
 ### NPM: 
 
 - delete all 'node_modules' packages :
 
+
+``` npm uninstall `ls -1 node_modules | tr '/\n' ' '` 
 ```
-npm uninstall `ls -1 node_modules | tr '/\n' ' '`
-```
+
 
 
 

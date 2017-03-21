@@ -53,9 +53,9 @@ var doubles = numbers.map( (num)=> {
 ```
 
 - reduce():
+
 ```
 var names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice'];
-
 var countedNames = names.reduce((allNames, name) => { 
   if (name in allNames) {
     allNames[name]++;
@@ -72,6 +72,7 @@ var countedNames = names.reduce((allNames, name) => {
 ### NPM: 
 
 - delete all 'node_modules' packages :
+
 ```
 npm uninstall `ls -1 node_modules | tr '/\n' ' '`
 ```

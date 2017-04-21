@@ -4,14 +4,19 @@ A Common use Front Ends resources and snippets.
 ## Resurses
 
 ### Blogs
-- [css-tricks](https://css-tricks.com)
-- [hackernoon](https://hackernoon.com)
-- [smashingmagazine](https://www.smashingmagazine.com)
-- [sitepoint](http://www.sitepoint.com)
-- [codrops](http://tympanus.net/codrops/)
+- [Css-tricks](https://css-tricks.com)
+- [Hackernoon](https://hackernoon.com)
+- [Smashingmagazine](https://www.smashingmagazine.com)
+- [Sitepoint](http://www.sitepoint.com)
+- [Codrops](http://tympanus.net/codrops)
 
 ### Live editors:
-- [codepen.io](http://codepen.io/)
+- [Codepen](http://codepen.io/)
+- [React live editor - Codesandbox](https://codesandbox.io)
+- [Plnkr](http://plnkr.co)
+- [Jsfiddle](https://jsfiddle.net)
+- [Jsbin](https://jsbin.com) 
+- [Cloud 9](https://c9.io)
 
 ### Insperation:
 - [https://dribbble.com/](dribbble)

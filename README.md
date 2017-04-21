@@ -5,6 +5,10 @@ A Common use Front Ends resources and snippets.
 
 ### Blogs
 - [css-tricks](https://css-tricks.com)
+- [hackernoon](https://hackernoon.com)
+- [smashingmagazine](https://www.smashingmagazine.com)
+- [sitepoint](http://www.sitepoint.com)
+- [codrops](http://tympanus.net/codrops/)
 
 ### Live editors:
 - [codepen.io](http://codepen.io/)

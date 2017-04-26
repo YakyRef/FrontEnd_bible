@@ -17,16 +17,19 @@ A Common use Front Ends resources and snippets.
 - [Jsfiddle](https://jsfiddle.net)
 - [Jsbin](https://jsbin.com) 
 - [Cloud 9](https://c9.io)
+- [Feditor](http://feditor.tech/)
 
 ### Insperation:
 - [https://dribbble.com/](dribbble)
 - [http://littlesnippets.net/](littlesnippets)
 
 ### UI Frameworks
-- [http://materializecss.com/](materializecss)
-- [http://www.material-ui.com/](material-ui)
-- [http://getbootstrap.com/](getbootstrap)
-- [https://react-bootstrap.github.io/](react-bootstrap)
+- [materializecss](http://materializecss.com/)
+- [material-ui](http://www.material-ui.com/)
+- [getbootstrap](http://getbootstrap.com/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [Foundation for Sites](http://foundation.zurb.com/sites/docs/)
+- [Foundation for Emails](http://foundation.zurb.com/emails/docs/)
 
 ### CSS:
 - [https://daneden.github.io/animate.css/](animate.css)
@@ -40,9 +43,20 @@ A Common use Front Ends resources and snippets.
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](a-guide-to-flexbox)
 
 ### Fonts:
-- [http://fontawesome.io/](fontawesome)
-- [http://fontello.com/](fontello)
+- [Font Awesome](http://fontawesome.io/)
+- [Fontello](http://fontello.com/)
+- [IcoMoon](https://icomoon.io/app/)
 
+### CLI Tools:
+- [Bower](https://bower.io/)
+- [npm](https://docs.npmjs.com/)
+- [AKA](https://www.npmjs.com/package/as-known-as)
+- [jq](https://stedolan.github.io/jq/)
+
+### Chrome Extensions:
+- [D2](https://chrome.google.com/webstore/detail/d2-developer-documentatio/pcndaioeajanljljbjglanbmnmhgdjln)
+- [EditThisCookie](http://www.editthiscookie.com/)
+- [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 
 ## Snippets
 

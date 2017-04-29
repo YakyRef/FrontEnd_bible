@@ -99,6 +99,14 @@ var countedNames = names.reduce((allNames, name) => {
 
 ``` npm uninstall `ls -1 node_modules | tr '/\n' ' '` ```
 
+
+
+
+
+### ES6:
+
+#### arrays:
+
 ## Credits:
 ---
 - https://developer.mozilla.org

@@ -102,10 +102,16 @@ var countedNames = names.reduce((allNames, name) => {
 
 
 
+### React.Js:
 
-### ES6:
+#### Redux:
 
-#### arrays:
+- mapDispatchToProps shortcut:
+``` 
+import * as actionCreators from './actionCreators'
+
+export default connect(null, actionCreators)(TodoApp)
+```
 
 ## Credits:
 ---
